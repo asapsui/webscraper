@@ -6,7 +6,7 @@ Information coming soon!!
 
 ## Features
 
-#### Todo
+### Todo
 - [ ] Fix authentication
 - [ ] Finish README
 - [ ] Add GUI 
