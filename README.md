@@ -1,3 +1,11 @@
 # Web Scraper
 
-I will use this to find jobs for the less fortunate 
+More information coming soon!!
+
+## FEATURES	
+
+#### Todo
+- [ ] Fix authentication
+- [ ] Finish README
+- [ ] Add GUI 
+- [ ] Alot of other things
