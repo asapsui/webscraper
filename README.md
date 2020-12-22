@@ -1,4 +1,5 @@
 # Web Scraper
+[Refer to this when finishing readme](https://medium.com/chingu/keys-to-a-well-written-readme-55c53d34fe6d)
 
 ## Overview
 
