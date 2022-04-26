@@ -51,7 +51,7 @@ public class Authentication {
 		// Get the login page
 		//HtmlPage page = client.getPage(String.format("%s%s", baseUrl, loginUrl)); // ??? 
 		HtmlPage page = client.getPage("https://www.instagram.com/login");
-		
+		HTMLPage = client.getPage("IDK.com");		
 		autoLogin(idk, "johncena", "sam123");
 
 
